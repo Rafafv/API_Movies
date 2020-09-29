@@ -12,11 +12,14 @@ Após clonar o repositório, navegue para a pasta que criou e instale as seguint
 
 **Dependências necessárias**
 
-1. Body-parser - é um módulos capaz de converter o body da requisição para vários formatos, exemplo formato json,
+1. Body-parser - Converte o body da requisição para vários formatos, exemplo formato json.
 * comando: npm install body-parser
 
-2. Nodemon - esse módulo é um utilitário, irá monitorar todas as alterações nos arquivos de sua aplicação e reiniciar automaticamente o servidor quando for necessário
+2. Nodemon - Utilitário, irá monitorar todas as alterações nos arquivos de sua aplicação e reiniciar automaticamente o servidor quando for necessário
 * comando: npm install nodemon
+
+3. Request - Solicitação cliente HTTP simplificado
+* comando:  npm install request
 
 **Para iniciar os testes**
 *verifique se já está utilizando a porta 3000 para outra aplicação*
