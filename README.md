@@ -1,7 +1,7 @@
 # API Movies - Consumindo API do TMDB com Nodejs e Expressjs
 
-Mais sobre o Expressjs - https://expressjs.com/pt-br/
-Fonte dos dados - TMDB API https://developers.themoviedb.org/3/getting-started/introduction
+* Mais sobre o Expressjs - https://expressjs.com/pt-br/
+* Fonte dos dados - TMDB API https://developers.themoviedb.org/3/getting-started/introduction
 
 **Requisitos**
 
